@@ -24,7 +24,7 @@ Juego de combate por turnos hecho en Python. Elige un personaje, enfréntate a u
 Clona el repositorio y entra en la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/OscarKing23/Game.git
+git clone <URL_DEL_REPOSITORIO>
 cd Game
 ```
 
